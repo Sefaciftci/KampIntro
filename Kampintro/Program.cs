@@ -195,7 +195,20 @@ namespace Kampintro
             */
 
 
+            Console.WriteLine("--------------------------------------");
+
+            sayi(2,4);
+            sayi();
+
+
 
         }
+
+        static int sayi(int sayi1= 0, int sayi2=3 )
+        {
+            
+            
+        }
+
     }
 }
